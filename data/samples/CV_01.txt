@@ -1,0 +1,24 @@
+CANDIDATE ID: CV_01
+Contact Information: [REDACTED - ANONYMIZED FOR PRIVACY]
+Location: Amman, Jordan (Address Redacted)
+
+EDUCATION
+B.Sc. in Computer Science and Data Science
+Graduation Date: June 2026
+Cumulative GPA: 3.72 out of 4.0
+
+CERTIFICATIONS
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Red Hat Linux Fundamentals (RH104)
+
+WORK EXPERIENCE
+Machine Learning & Data Engineering Intern | TechSolutions | Feb 2026 – May 2026 (4 months)
+- Built dense and hybrid Retrieval-Augmented Generation (RAG) pipelines using Python, FAISS, and BM25.
+- Developed REST APIs using FastAPI and wrote SQL queries for dataset preparation (4 months total SQL and work experience).
+- Fine-tuned image classification models using TensorFlow and Scikit-Learn.
+
+TECHNICAL SKILLS
+- Programming & Databases: Python, SQL, FastAPI
+- Machine Learning & AI: TensorFlow, Scikit-Learn, Pandas, NumPy, FAISS, BM25
+- Systems: Linux (Red Hat RH104)
+- Languages: Arabic (Native), English (Fluent)

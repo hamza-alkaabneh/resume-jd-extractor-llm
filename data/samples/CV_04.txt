@@ -1,0 +1,17 @@
+CANDIDATE ID: CV_04
+Contact Information: [REDACTED - ANONYMIZED FOR PRIVACY]
+
+EDUCATION
+B.Sc. in Computer Vision & Artificial Intelligence
+Graduation Date: August 2025
+Undergraduate Cumulative GPA: 2.85 out of 4.0
+
+WORK EXPERIENCE (Total Work Experience: 6 months)
+Junior Computer Vision Engineer | VisionTech AI | Sep 2025 – Feb 2026 (6 months)
+- Trained real-time object detection and classification pipelines using OpenCV, YOLOv8, MobileNetV2, and Keras.
+- Optimized edge inference scripts in C++ on Linux embedded devices.
+
+TECHNICAL SKILLS
+- Computer Vision & Deep Learning: OpenCV, YOLOv8, MobileNetV2, Keras
+- Programming & OS: Python, C++, Linux
+- Languages: Bilingual in Arabic and English

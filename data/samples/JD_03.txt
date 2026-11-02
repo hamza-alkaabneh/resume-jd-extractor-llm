@@ -1,0 +1,8 @@
+JOB ID: JD_03
+Position Title: Backend Software Engineer
+Department: Core Platform Engineering
+
+MANDATORY REQUIREMENTS:
+1. Education: B.Sc. in Computer Science or Software Engineering.
+2. Experience: At least 12 months of professional backend development experience using Node.js or Python.
+3. Infrastructure & Databases: Hands-on production experience with Docker and PostgreSQL.

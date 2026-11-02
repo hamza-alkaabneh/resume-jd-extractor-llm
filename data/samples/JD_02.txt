@@ -1,0 +1,9 @@
+JOB ID: JD_02
+Position Title: NLP / LLM Engineer
+Department: Applied AI Research
+
+MANDATORY REQUIREMENTS:
+1. Education: B.Sc. or M.Sc. in Computer Science or a closely related field.
+2. Core Technical Stack: Strong proficiency in Python and either Retrieval-Augmented Generation (RAG using FAISS or BM25) or Hugging Face Transformers.
+3. Languages: Bilingual proficiency in Arabic and English.
+4. Compensation: Competitive (Specific salary range is not disclosed in this posting).
