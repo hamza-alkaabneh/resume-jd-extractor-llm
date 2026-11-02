@@ -1,7 +1,6 @@
-# Resume & Job Description Extractor (Phase 1)
+# Resume & Job Description Extractor
 
 **Course:** Special Topics in Data Science — Building LLM Systems: From Models to Production  
-**Phase:** Phase 1 — Problem and Data (`v0.1-phase1`)
 
 ## Three Core Phase 1 Questions
 1. **Who is the user, and what task do they need help with?**  
@@ -12,7 +11,7 @@
    By evaluating exact/semantic extraction accuracy, source citation precision, and abstention accuracy on our 30-row ground-truth benchmark (`/eval/seed_test_set.csv`).
 
 ## Repository Structure
-- `docs/proposal.pdf` — 2-Page Project Proposal
-- `docs/data_card.pdf` — 1-Page Data Card
+- `docs/proposal.pdf` — 3-Page Project Proposal
+- `docs/data_card.pdf` — 2-Page Data Card
 - `eval/seed_test_set.csv` — 30-Row Seed Test Set (Easy, Medium, Hard, and Refusal cases)
 - `data/samples/` — 5 Anonymized Sample CVs (`CV_01`–`CV_05`) and 3 Job Descriptions (`JD_01`–`JD_03`)
