@@ -1,0 +1,8 @@
+seed: 42
+model_name: gpt2
+block_size: 512
+cpt_epochs: 3
+sft_epochs: 3
+learning_rate: 0.00005
+max_new_tokens: 64
+temperature: 0.0

@@ -1,0 +1,11 @@
+JOB ID: JD_01
+Position Title: Junior Data Scientist
+Department: Data & AI Analytics
+
+MANDATORY REQUIREMENTS:
+1. Education: B.Sc. in Computer Science or Data Science.
+2. Academic Standing: Minimum undergraduate cumulative GPA of 3.2 out of 4.0.
+3. Machine Learning: Proficiency in Python and deep learning frameworks (TensorFlow or PyTorch).
+4. Database Experience: At least 6 months of hands-on SQL experience.
+
+Note: Candidates must satisfy all four mandatory requirements above to be eligible for interview shortlisting.

@@ -1,0 +1,50 @@
+{
+  "train_tokens": 39466,
+  "val_tokens": 2251,
+  "perplexity_before": 113.3,
+  "perplexity_after": 91.3,
+  "completions_before": [
+    {
+      "prompt": "CANDIDATE ID: CV_01\nEDUCATION\nB.Sc. in Computer Science and Data Science\nGraduation Date:",
+      "completion": "Fall 2011\n\nB.Sc. in Computer Science and Data Science\n\nGraduation Date:\n\nFall 2011\n\nB.Sc. in Computer Science and Data Science"
+    },
+    {
+      "prompt": "CANDIDATE ID: CV_02\nWORK EXPERIENCE (Total Work Experience: 17 months)\nBackend Developer |",
+      "completion": "Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer | Developer |"
+    },
+    {
+      "prompt": "CANDIDATE ID: CV_03\nPUBLICATIONS & CERTIFICATIONS\n- Publications:",
+      "completion": "- The National Academy of Sciences, The National Academy of Sciences, The National Academy of Sciences, The National Academy of Sciences, The National Academy of Sciences, The National Academy of Sciences, The"
+    },
+    {
+      "prompt": "JOB ID: JD_01\nPosition Title: Junior Data Scientist\nMANDATORY REQUIREMENTS:\n1. Education:",
+      "completion": "Bachelor's Degree in Computer Science or equivalent\n2. Experience with the following:\n- A computer science degree\n- A computer science degree in a computer science field\n- A computer science degree in"
+    },
+    {
+      "prompt": "JOB ID: JD_02\nPosition Title: NLP / LLM Engineer\n2. Core Technical Stack:",
+      "completion": "NLP / LLM Engineer\n3. Core Technical Stack: NLP / LLM Engineer\n4. Core Technical Stack: NLP / LLM Engineer\n5. Core Technical Stack: N"
+    }
+  ],
+  "completions_after": [
+    {
+      "prompt": "CANDIDATE ID: CV_01\nEDUCATION\nB.Sc. in Computer Science and Data Science\nGraduation Date:",
+      "completion": "June 20, 2014\nGraduation Date: June 20, 2014\n\nCANDIDATE ID: CV_02\nEDUCATION\nB.Sc. in Computer Science and Data Science"
+    },
+    {
+      "prompt": "CANDIDATE ID: CV_02\nWORK EXPERIENCE (Total Work Experience: 17 months)\nBackend Developer |",
+      "completion": "CANDIDATE ID: CV_03\nWORK EXPERIENCE (Total Work Experience: 17 months)\nBackend Developer | CANDIDATE ID: CV_04\nWORK EXPER"
+    },
+    {
+      "prompt": "CANDIDATE ID: CV_03\nPUBLICATIONS & CERTIFICATIONS\n- Publications:",
+      "completion": "CV_04\n- Publications: CV_05\n- Publications: CV_06\n- Publications: CV_07\n- Publications: CV_08\n- Publications: CV_09\n-"
+    },
+    {
+      "prompt": "JOB ID: JD_01\nPosition Title: Junior Data Scientist\nMANDATORY REQUIREMENTS:\n1. Education:",
+      "completion": "Computer Science, Computer Vision, and Machine Learning\n2. Experience: Data Science, Data Mining, and Data Science Applications\n3. Experience: Data Science, Data Mining, and Data Science Applications"
+    },
+    {
+      "prompt": "JOB ID: JD_02\nPosition Title: NLP / LLM Engineer\n2. Core Technical Stack:",
+      "completion": "NLP / LLM Engineer\n3. Software Engineering Stack: NLP / LLM Engineer\n4. Data Science Stack: NLP / LLM Engineer\n5. Data Science Data Science Data"
+    }
+  ]
+}

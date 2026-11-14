@@ -1,0 +1,41 @@
+{
+  "base": {
+    "accuracy": 0.0,
+    "refusal_accuracy": 0.0,
+    "latency": 0.84,
+    "agreement": 96.7,
+    "errors": {
+      "Format failure": 23,
+      "Hallucination": 2,
+      "Knowledge missing": 1,
+      "Refusal error": 4,
+      "Test-case problem": 0
+    }
+  },
+  "cpt": {
+    "accuracy": 0.0,
+    "refusal_accuracy": 0.0,
+    "latency": 0.7,
+    "agreement": 93.3,
+    "errors": {
+      "Format failure": 18,
+      "Hallucination": 5,
+      "Knowledge missing": 3,
+      "Refusal error": 4,
+      "Test-case problem": 0
+    }
+  },
+  "sft": {
+    "accuracy": 21.7,
+    "refusal_accuracy": 75.0,
+    "latency": 0.74,
+    "agreement": 86.7,
+    "errors": {
+      "Format failure": 0,
+      "Hallucination": 2,
+      "Knowledge missing": 1,
+      "Refusal error": 21,
+      "Test-case problem": 0
+    }
+  }
+}

@@ -1,0 +1,20 @@
+CANDIDATE ID: CV_03
+Contact Information: [REDACTED - ANONYMIZED FOR PRIVACY]
+
+EDUCATION
+M.Sc. in Computer Science (Currently Pursuing, Expected Graduation: 2027)
+B.Sc. in Computer Science (Graduated June 2025)
+Undergraduate Cumulative GPA: 3.85 out of 4.0
+
+WORK EXPERIENCE
+NLP Research Assistant | University AI Lab | Sep 2025 – Apr 2026 (8 months)
+- Researched parameter-efficient fine-tuning (LoRA) for Arabic NLP tasks using PyTorch and Hugging Face Transformers.
+- Built text preprocessing pipelines using Python and spaCy.
+
+PUBLICATIONS & CERTIFICATIONS
+- Publications: Published 1 IEEE paper on Arabic Named Entity Recognition (2026).
+- Certifications: None (No cloud certifications held).
+
+TECHNICAL SKILLS
+- AI & NLP: Python, PyTorch, Hugging Face, LoRA, Arabic NLP, spaCy
+- Languages: Arabic (Native), English (Fluent)

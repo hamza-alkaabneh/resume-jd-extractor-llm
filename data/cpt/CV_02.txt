@@ -1,0 +1,21 @@
+CANDIDATE ID: CV_02
+Contact Information: [REDACTED - ANONYMIZED FOR PRIVACY]
+
+EDUCATION
+B.Sc. in Software Engineering
+Graduation Date: January 2025
+Cumulative GPA: 3.10 out of 4.0
+
+WORK EXPERIENCE (Total Work Experience: 17 months)
+Backend Developer | CloudWare Systems | Feb 2025 – Mar 2026 (14 months)
+- Engineered scalable microservices using Node.js and Express over 14 months of full-time backend development.
+- Managed relational databases and production schemas in PostgreSQL.
+- Containerized backend services using Docker and deployed workloads on AWS EC2.
+
+Database Intern | DataGrid Corp | Oct 2024 – Dec 2024 (3 months)
+- Wrote SQL stored procedures and assisted with relational database migration for 3 months.
+
+TECHNICAL SKILLS
+- Backend & Cloud: Node.js, Docker, AWS, REST APIs
+- Databases: PostgreSQL, SQL
+- Languages: English (Fluent), Arabic (Native)
