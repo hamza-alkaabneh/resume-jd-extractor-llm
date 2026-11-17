@@ -13,3 +13,5 @@ python score.py
 ## Model Checkpoints (Stored Outside Git)
 Trained CPT and SFT weights are stored on Google Drive:
 - Checkpoint Link: https://drive.google.com/drive/folders/1FDrW1BYuAp61h3CCg6n3xyATJZiui2mk?usp=sharing
+- models link cpt: https://huggingface.co/hamza-university-projects/resume-cpt
+- models link sft: https://huggingface.co/hamza-university-projects/resume-sft
